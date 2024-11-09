@@ -1,4 +1,4 @@
-.head1 {
+.head-1 {
     letter-spacing: 0.02em;
     text-align: center;
     line-height: 1.07;
@@ -23,28 +23,28 @@
 .button1:focus {
     background-color: #404BBF;
 }
-.Strategy {
+.strategy-1 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.Punctuality {
+.punctuality-2 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.Diligence {
+.diligence-3 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.Technologies {
+.technologies-4 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
