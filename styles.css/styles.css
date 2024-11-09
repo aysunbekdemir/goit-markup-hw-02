@@ -1,0 +1,122 @@
+.head1 {
+    letter-spacing: 0.02em;
+    text-align: center;
+    line-height: 1.07;
+    font-size: 56px;
+    background-color: #2e2f42
+    ;
+    color:#ffff
+}
+.button1 {
+    cursor: pointer;
+    color: #ffffff;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: Roboto;
+    background-color: #4D5AE5;
+}
+.button1:hover {
+    background-color: #404BBF;
+}
+.button1:focus {
+    background-color: #404BBF;
+}
+.Strategy {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.Punctuality {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.Diligence {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.Technologies {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.explain {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+.ourteam {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    background-color: #f4f4fd;
+}
+.person {
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.work {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.ourportfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.whatdo {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.whichdo {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.information {
+    color: #2e2f42;
+}
+.infoexp {
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+    line-height: 1.5;
+}
+.logo {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5
+}
+.studio {
+    color: #2e2f42;
+}
