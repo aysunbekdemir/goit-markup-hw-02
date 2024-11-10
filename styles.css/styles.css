@@ -1,3 +1,16 @@
+.link-header {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.link-header:hover {
+    background-color: #404bbf;
+}
+.link-header:focus {
+    background-color: #404bbf;
+}
 .head-1 {
     letter-spacing: 0.02em;
     text-align: center;
@@ -23,35 +36,14 @@
 .button-1:focus {
     background-color: #404BBF;
 }
-.strategy-1 {
+.aboutus-head {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.punctuality-2 {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.diligence-3 {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.technologies-4 {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.explain-1 {
+.aboutus-explain {
     letter-spacing: 0.02em;
     font-size: 16px;
     line-height: 1.5;
@@ -66,7 +58,10 @@
     color: #2e2f42;
     background-color: #f4f4fd;
 }
-.person-1 {
+.image-name {
+    background-color: #FFFFFF;
+}
+.person-name {
     background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
@@ -74,7 +69,7 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.work-1 {
+.work-do {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -87,21 +82,22 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #FFFFFF;
 }
-.whatdo-1 {
+.what-do {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.whichdo-1 {
+.which-do {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.information-1 {
+.information-footer {
     background-color: #2e2f42;
 }
 .info-exp {
@@ -116,7 +112,7 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5
+    color: #4d5ae5;
 }
 .studio-1 {
     color: #2e2f42;
@@ -124,19 +120,7 @@
 .section-1 {
     background-color: #2e2f42;
 }
-.link-1 {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.link-1:hover {
-    background-color: #404bbf;
-}
-.link-1:focus {
-    background-color: #404bbf;
-}
+
 .section-3 {
-    background-color: #f4f4fd
+    background-color: #f4f4fd;
 }
