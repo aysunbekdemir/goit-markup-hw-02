@@ -1,8 +1,19 @@
+.body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
 .link-header {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.logo-webstudio {
+    font-family: "Raleway";
+}
+.studio-text {
     color: #2e2f42;
 }
 .link-header:hover {
@@ -11,7 +22,10 @@
 .link-header:focus {
     background-color: #404bbf;
 }
-.head-1 {
+.section-one {
+    background-color: #2e2f42
+}
+.head-one {
     letter-spacing: 0.02em;
     text-align: center;
     line-height: 1.07;
@@ -20,20 +34,20 @@
     ;
     color:#ffff
 }
-.button-1 {
+.button-one {
     cursor: pointer;
     color: #ffffff;
     letter-spacing: 0.04em;
     line-height: 1.5;
     font-weight: 500;
     font-size: 16px;
-    font-family: Roboto sans-serif;
+    font-family: "Roboto",sans-serif;
     background-color: #4D5AE5;
 }
-.button-1:hover {
+.button-one:hover {
     background-color: #404BBF;
 }
-.button-1:focus {
+.button-one:focus {
     background-color: #404BBF;
 }
 .aboutus-head {
@@ -49,6 +63,9 @@
     line-height: 1.5;
     color: #434455;
 }
+.section-three {
+    background-color: #f4f4fd;
+}
 .our-team {
     font-size: 36px;
     line-height: 1.11;
@@ -59,7 +76,7 @@
     background-color: #f4f4fd;
 }
 .image-name {
-    background-color: #FFFFFF;
+    background-color: #f4f4fd;
 }
 .person-name {
     background-color: #FFFFFF;
@@ -82,6 +99,9 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #FFFFFF;
+}
+.work-name {
     background-color: #FFFFFF;
 }
 .what-do {
