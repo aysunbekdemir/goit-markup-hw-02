@@ -12,9 +12,15 @@
 }
 .logo-webstudio {
     font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .studio-text {
-    color: #2e2f42;
+    color: #2e2f42; 
 }
 .link-header:hover {
     background-color: #404bbf;
@@ -124,15 +130,6 @@
     letter-spacing: 0.02em;
     color: #F4F4FD;
     line-height: 1.5;
-}
-.logo-1 {
-    font-family: Raleway;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
 }
 .studio-1 {
     color: #2e2f42;
