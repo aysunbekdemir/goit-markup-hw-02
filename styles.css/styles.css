@@ -7,20 +7,20 @@
     ;
     color:#ffff
 }
-.button1 {
+.button-1 {
     cursor: pointer;
     color: #ffffff;
     letter-spacing: 0.04em;
     line-height: 1.5;
     font-weight: 500;
     font-size: 16px;
-    font-family: Roboto;
+    font-family: Roboto sans-serif;
     background-color: #4D5AE5;
 }
-.button1:hover {
+.button-1:hover {
     background-color: #404BBF;
 }
-.button1:focus {
+.button-1:focus {
     background-color: #404BBF;
 }
 .strategy-1 {
@@ -51,12 +51,13 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.explain {
+.explain-1 {
+    letter-spacing: 0.02em;
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
 }
-.ourteam {
+.our-team {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -65,7 +66,7 @@
     color: #2e2f42;
     background-color: #f4f4fd;
 }
-.person {
+.person-1 {
     background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
@@ -73,13 +74,13 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.work {
+.work-1 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.ourportfolio {
+.our-portfolio {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -87,28 +88,28 @@
     text-transform: capitalize;
     color: #2e2f42;
 }
-.whatdo {
+.whatdo-1 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.whichdo {
+.whichdo-1 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.information {
-    color: #2e2f42;
+.information-1 {
+    background-color: #2e2f42;
 }
-.infoexp {
+.info-exp {
     letter-spacing: 0.02em;
     color: #F4F4FD;
     line-height: 1.5;
 }
-.logo {
+.logo-1 {
     font-family: Raleway;
     font-weight: 700;
     font-size: 18px;
@@ -117,6 +118,25 @@
     text-transform: uppercase;
     color: #4d5ae5
 }
-.studio {
+.studio-1 {
     color: #2e2f42;
+}
+.section-1 {
+    background-color: #2e2f42;
+}
+.link-1 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.link-1:hover {
+    background-color: #404bbf;
+}
+.link-1:focus {
+    background-color: #404bbf;
+}
+.section-3 {
+    background-color: #f4f4fd
 }
